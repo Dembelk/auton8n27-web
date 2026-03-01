@@ -1,7 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
-  port: 3000
+  output: 'standalone'
 }
-
 module.exports = nextConfig
