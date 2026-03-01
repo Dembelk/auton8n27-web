@@ -9,7 +9,7 @@ module.exports = {
       exec_mode: 'cluster',
       env: {
         NODE_ENV: 'production',
-        PORT: 3000
+        PORT: 3001
       },
       error_file: '/var/log/pm2/auton8n27-web-error.log',
       out_file: '/var/log/pm2/auton8n27-web-out.log',
